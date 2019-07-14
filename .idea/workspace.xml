@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b340718e-95dc-47a1-bd57-3c262a7a5dfc" name="Default Changelist" comment="Edit vieworder">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="b340718e-95dc-47a1-bd57-3c262a7a5dfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mod1/css/styleTWO.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod1/js/date-formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod1/js/in-mem-db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mod1/js/myjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod1/js/myjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod1/customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod1/customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod1/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod1/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod1/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod1/order.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mod1/vieworder.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod1/vieworder.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,16 +80,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="7" />
+          <entry key="html" value="40" />
           <entry key="js" value="10" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="7" />
+          <entry key="HTML" value="40" />
           <entry key="JavaScript" value="10" />
           <entry key="PLAIN_TEXT" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -94,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mod1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            <state relative-caret-position="340">
+              <caret line="41" column="152" selection-start-line="41" selection-start-column="152" selection-end-line="41" selection-end-column="152" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -117,8 +136,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mod1/customer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4148">
-              <caret line="244" column="7" selection-start-line="244" selection-start-column="7" selection-end-line="244" selection-end-column="7" />
+            <state relative-caret-position="305">
+              <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -165,8 +184,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mod1/item.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2788">
-              <caret line="164" column="42" selection-start-line="164" selection-start-column="42" selection-end-line="164" selection-end-column="42" />
+            <state relative-caret-position="373">
+              <caret line="41" column="152" selection-start-line="41" selection-start-column="152" selection-end-line="41" selection-end-column="152" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -200,8 +219,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mod1/order.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2516">
-              <caret line="148" column="49" selection-start-line="148" selection-start-column="49" selection-end-line="148" selection-end-column="49" />
+            <state relative-caret-position="288">
+              <caret line="41" column="152" selection-start-line="41" selection-start-column="152" selection-end-line="41" selection-end-column="152" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -239,11 +258,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mod1/vieworder.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="294" lean-forward="true" selection-start-line="294" selection-end-line="294" />
+            <state relative-caret-position="373">
+              <caret line="43" column="152" selection-start-line="43" selection-start-column="152" selection-end-line="43" selection-end-column="152" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -270,14 +289,34 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mod1/placeorderform.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#li#2;n#ul#0;n#ul#0;n#div#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod1/css/styleTWO.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -290,12 +329,13 @@
         <option value="$PROJECT_DIR$/mod1/css/style.css" />
         <option value="$PROJECT_DIR$/mod1/dash.html" />
         <option value="$PROJECT_DIR$/mod1/css/stylesheet.css" />
-        <option value="$PROJECT_DIR$/mod1/index.html" />
         <option value="$PROJECT_DIR$/mod1/js/itemjs.js" />
+        <option value="$PROJECT_DIR$/mod1/js/myjs.js" />
+        <option value="$PROJECT_DIR$/mod1/placeorderform.html" />
+        <option value="$PROJECT_DIR$/mod1/index.html" />
         <option value="$PROJECT_DIR$/mod1/customer.html" />
         <option value="$PROJECT_DIR$/mod1/item.html" />
         <option value="$PROJECT_DIR$/mod1/order.html" />
-        <option value="$PROJECT_DIR$/mod1/js/myjs.js" />
         <option value="$PROJECT_DIR$/mod1/vieworder.html" />
       </list>
     </option>
@@ -335,6 +375,13 @@
               <item name="mod1" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="finalPos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalPos" type="462c0819:PsiDirectoryNode" />
+              <item name="mod1" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="semantic.js" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -353,22 +400,24 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560672348332" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563122013191" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/WebLahiruSir/ITEL NEW PROJECT/Day-06" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebLahiruSir\finalPos\mod1\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHP\Conver to Section\finalPos\mod1\css" />
+      <recent name="D:\PHP\Conver to Section\finalPos\mod1\js" />
       <recent name="D:\WebLahiruSir\finalPos\mod1\js" />
       <recent name="D:\WebLahiruSir\finalPos\mod1\css" />
       <recent name="D:\WebLahiruSir\finalPos\mod1\images" />
-      <recent name="D:\WebLahiruSir\finalPos\mod1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WebLahiruSir\finalPos\mod1\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -414,18 +463,26 @@
       <workItem from="1562525886261" duration="403000" />
       <workItem from="1562526344654" duration="1218000" />
       <workItem from="1562673045791" duration="630000" />
-      <workItem from="1563114031606" duration="242000" />
+      <workItem from="1563114031606" duration="2886000" />
     </task>
+    <task id="LOCAL-00001" summary="Edit vieworder">
+      <created>1563114289592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563114289592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94965000" />
+    <option name="totallyTimeSpent" value="97609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2375189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2375189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -493,10 +550,32 @@
     <entry file="file://$PROJECT_DIR$/mod1/jquery/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/mod1/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod1/js/myjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod1/js/date-formatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod1/css/styleTWO.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/mod1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        <state relative-caret-position="340">
+          <caret line="41" column="152" selection-start-line="41" selection-start-column="152" selection-end-line="41" selection-end-column="152" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -516,8 +595,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mod1/customer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4148">
-          <caret line="244" column="7" selection-start-line="244" selection-start-column="7" selection-end-line="244" selection-end-column="7" />
+        <state relative-caret-position="305">
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -551,17 +630,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mod1/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mod1/item.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2788">
-          <caret line="164" column="42" selection-start-line="164" selection-start-column="42" selection-end-line="164" selection-end-column="42" />
+        <state relative-caret-position="373">
+          <caret line="41" column="152" selection-start-line="41" selection-start-column="152" selection-end-line="41" selection-end-column="152" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -593,8 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mod1/order.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2516">
-          <caret line="148" column="49" selection-start-line="148" selection-start-column="49" selection-end-line="148" selection-end-column="49" />
+        <state relative-caret-position="288">
+          <caret line="41" column="152" selection-start-line="41" selection-start-column="152" selection-end-line="41" selection-end-column="152" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -622,17 +694,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mod1/js/myjs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mod1/vieworder.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="294" lean-forward="true" selection-start-line="294" selection-end-line="294" />
+        <state relative-caret-position="373">
+          <caret line="43" column="152" selection-start-line="43" selection-start-column="152" selection-end-line="43" selection-end-column="152" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -653,6 +718,19 @@
             <element signature="n#tr#9;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod1/placeorderform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#button#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#2;n#ul#0;n#ul#0;n#div#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
