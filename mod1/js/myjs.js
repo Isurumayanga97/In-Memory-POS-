@@ -44,6 +44,7 @@ $(function() {
         $('#cbirthday').val($(td[5]).html());
         $('#cnic').val($(td[6]).html());
         $('#ctel').val($(td[7]).html());
+
     });
 });
 
